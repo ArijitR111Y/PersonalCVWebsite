@@ -15,6 +15,63 @@
   opacity: 0.8;
   cursor: pointer; }
 
+  .frame{
+    margin-top: 7%;
+  }
+  .dp img{
+    width: 100%;
+  }
+  .glyphicon{
+    font-size: 110%;
+  }
+  .sidebar tr{
+    background-color: black;
+    color: white;
+  }
+  .sidebar tr:hover
+  {
+    color: black;
+  }
+  a:visited
+  {
+    color: gray;
+    font-weight: bold;
+  }
+  .about{
+    margin-top: 7%;
+    background-color: #fff;
+  }
+  .name{
+    font-weight: bold;
+  }
+  th{
+    border-right: 1px solid gray;
+  }
+  table
+  {
+    border:1px solid gray;
+  }
+  .heading{
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom: 1px solid teal;
+  }
+  .education img{
+    width: 5%;
+    margin-left: 3%;
+  }
+  li{
+    border-left: 2px solid gray;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    list-style-type: none;
+  }
+  .about-me{
+    color: gray;
+    font-family: serif;
+    font-size: 120%;
+  }
+
 @media (min-width: 1199px) {
   .port-item {
     padding: 3em !important; } }
